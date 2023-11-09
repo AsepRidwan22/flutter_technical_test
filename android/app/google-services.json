@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267969642945",
+    "project_id": "fan-intek-technical",
+    "storage_bucket": "fan-intek-technical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267969642945:android:09bb67a41351684d3f2f40",
+        "android_client_info": {
+          "package_name": "com.example.fan_technical_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMCWNqun3Ya8x6a9SiYueKzFImCm1sEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
